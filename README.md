@@ -8,6 +8,7 @@
 | Backend       | Java + Springboot |   8080 | API REST            |
 | Base de datos | PostgreSQL        |   5439 | Persistencia        |
 
+![alt text](image.png)
 
 
 
