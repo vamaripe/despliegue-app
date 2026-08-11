@@ -29,6 +29,8 @@
 
 **Captura 6:** Servicio web funcionando.
 
+![alt text](image5.webp)
+
 **Captura 7:** Administración de los contenedores.
 **Captura 8:** Portainer funcionando.
 
