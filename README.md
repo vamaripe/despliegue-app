@@ -25,7 +25,10 @@
 
 **Captura 5:** Primer contenedor ejecutado.
 
+![alt text](image4.webp)
+
 **Captura 6:** Servicio web funcionando.
+
 **Captura 7:** Administración de los contenedores.
 **Captura 8:** Portainer funcionando.
 
