@@ -32,6 +32,13 @@
 ![alt text](image5.webp)
 
 **Captura 7:** Administración de los contenedores.
+
+![alt text](image6.webp)
+
+![alt text](image7.webp)
+
+![alt text](image8.webp)
+
 **Captura 8:** Portainer funcionando.
 
 **Captura 9:** Administración del entorno Docker desde Portainer.
