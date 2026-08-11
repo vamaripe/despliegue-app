@@ -20,6 +20,9 @@
 
 **Captura 4:** Docker funcionando correctamente.
 
+![alt text](Captura_de_pantalla_2026-08-11_101458.webp)
+
+
 **Captura 5:** Primer contenedor ejecutado.
 
 **Captura 6:** Servicio web funcionando.
