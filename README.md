@@ -47,6 +47,8 @@
 
 ![alt text](Captura_de_pantalla_2026-08-14_090632.webp)
 
+![alt text](sadjfhaikdshaksdsa.webp)
+
 **Captura 10:** Volumen creado.
 captura 10: 1. Crea el volumen:
 
