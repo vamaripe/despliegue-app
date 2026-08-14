@@ -47,6 +47,7 @@
 **Captura 10:** Volumen creado.
 captura 10: 1. Crea el volumen:
 
+![alt text](image1238127382.webp)
 
 **Captura 11:** Prueba de persistencia.
 **Captura 12:** Dockerfile del frontend.
