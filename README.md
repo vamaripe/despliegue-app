@@ -44,6 +44,9 @@
 ![alt text](image12323.webp)
 
 **Captura 9:** Administración del entorno Docker desde Portainer.
+
+![alt text](Captura_de_pantalla_2026-08-14_090632.webp)
+
 **Captura 10:** Volumen creado.
 captura 10: 1. Crea el volumen:
 
