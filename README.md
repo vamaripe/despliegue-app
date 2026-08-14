@@ -52,10 +52,21 @@
 **Captura 10:** Volumen creado.
 captura 10: 1. Crea el volumen:
 
+![alt text](image.png)
+
+
 ![alt text](image1238127382.webp)
 
 **Captura 11:** Prueba de persistencia.
+
+![alt text](image-2.png)
+
+- despues elimino las prubas que se crearon 
+![alt text](image-3.png)
+
 **Captura 12:** Dockerfile del frontend.
+
+![alt text](image-4.png)
 
 **Captura 13:** Imagen Docker construida.
 
