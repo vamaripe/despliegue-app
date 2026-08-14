@@ -41,10 +41,11 @@
 
 **Captura 8:** Portainer funcionando.
 
+![alt text](image12323.webp)
+
 **Captura 9:** Administración del entorno Docker desde Portainer.
 **Captura 10:** Volumen creado.
 captura 10: 1. Crea el volumen:
-![Uploading image.png…]()
 
 
 **Captura 11:** Prueba de persistencia.
