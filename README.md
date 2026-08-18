@@ -65,12 +65,20 @@ captura 10: 1. Crea el volumen:
 ![alt text](image-3.png)
 
 **Captura 12:** Dockerfile del frontend.
-
-![alt text](image-4.png)
+- se muestra el docker file 
+![alt text](image-5.png)
+![alt text](image-6.png)
+- se contruye la imagen
+![alt text](image-7.png)
 
 **Captura 13:** Imagen Docker construida.
+![alt text](image-8.png)
 
 **Captura 14:** Frontend funcionando dentro del contenedor.
+
+- muestra el contenedor funcionando
+![alt text](image-9.png)
+![alt text](image-10.png)
 **Captura 15:** Dockerfile del backend.
 
 **Captura 16:** Imagen del backend.
